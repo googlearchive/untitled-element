@@ -5,11 +5,11 @@
     "polymer": "Polymer/polymer#master"
   },
   "homepage": "https://github.com/PolymerLabs/untitled-element",
-  "_release": "dd5a0b75d3",
+  "_release": "133654f131",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "dd5a0b75d33c551e4a55cf2ff7fc6fde763611f5"
+    "commit": "133654f131b810262004e9711047ea4b9ec9673c"
   },
   "_source": "git://github.com/PolymerLabs/untitled-element.git",
   "_target": "master",
